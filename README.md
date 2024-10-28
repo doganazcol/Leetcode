@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/doganazcol/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/doganazcol/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/doganazcol/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/doganazcol/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/doganazcol/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/doganazcol/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/doganazcol/Leetcode/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/doganazcol/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/doganazcol/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
