@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/doganazcol/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/doganazcol/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/doganazcol/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/doganazcol/Leetcode/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/doganazcol/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/doganazcol/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
