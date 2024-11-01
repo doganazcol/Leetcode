@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doganazcol/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doganazcol/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/doganazcol/Leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/doganazcol/Leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/doganazcol/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/doganazcol/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/doganazcol/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doganazcol/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/doganazcol/Leetcode/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
