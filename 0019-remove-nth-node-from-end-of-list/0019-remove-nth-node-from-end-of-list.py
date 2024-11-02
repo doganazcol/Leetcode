@@ -10,6 +10,8 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
+
+        #This dummy node helps simplify edge cases, like removing the first node of the list.
         dummy = ListNode(0, head)
 
         #acts as indexes
@@ -17,6 +19,8 @@ class Solution(object):
         right = head
 
         #cant do with a caclculation since both pointers are dynamically changing
+        #singly linked list, which has no direct way to access a node by position or index.
+
         #r =  head + n 
 
         while n > 0 and right is not None: 
