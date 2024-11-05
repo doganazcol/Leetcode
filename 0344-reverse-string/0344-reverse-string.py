@@ -11,12 +11,23 @@ class Solution(object):
         while l < r: 
 
             #reverse
-            temp = s[r] 
-            s[r] = s[l]
-            s[l] = temp
+
+
+
+            s[l], s[r] = s[r], s[l]
+            
+            #temp = s[r] 
+            #s[r] = s[l]
+            #s[l] = temp
 
             #update opinters
             l += 1
             r -= 1
 
         return s
+
+        """ #in place s[:]
+        s[:] = list(reversed(s))
+        return s """
+
+
