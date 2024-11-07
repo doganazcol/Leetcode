@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/doganazcol/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/doganazcol/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/doganazcol/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/doganazcol/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/doganazcol/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/doganazcol/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
