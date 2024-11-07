@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/doganazcol/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doganazcol/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/doganazcol/Leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/doganazcol/Leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/doganazcol/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/doganazcol/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/doganazcol/Leetcode/tree/master/0724-find-pivot-index) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/doganazcol/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/doganazcol/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/doganazcol/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/doganazcol/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/doganazcol/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/doganazcol/Leetcode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/doganazcol/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/doganazcol/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/doganazcol/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/doganazcol/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/doganazcol/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/doganazcol/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/doganazcol/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/doganazcol/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/doganazcol/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/doganazcol/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/doganazcol/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/doganazcol/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -188,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/doganazcol/Leetcode/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/doganazcol/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
