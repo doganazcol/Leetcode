@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/doganazcol/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/doganazcol/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/doganazcol/Leetcode/tree/master/0541-reverse-string-ii) |
+| [1666-make-the-string-great](https://github.com/doganazcol/Leetcode/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/doganazcol/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/doganazcol/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/doganazcol/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/doganazcol/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/doganazcol/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/doganazcol/Leetcode/tree/master/0155-min-stack) |
+| [1666-make-the-string-great](https://github.com/doganazcol/Leetcode/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
