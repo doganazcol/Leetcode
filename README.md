@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/doganazcol/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/doganazcol/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/doganazcol/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1710-find-servers-that-handled-most-number-of-requests](https://github.com/doganazcol/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1833-find-the-highest-altitude](https://github.com/doganazcol/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2211-k-radius-subarray-averages](https://github.com/doganazcol/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2358-number-of-ways-to-split-array](https://github.com/doganazcol/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -227,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/doganazcol/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1710-find-servers-that-handled-most-number-of-requests](https://github.com/doganazcol/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+## Simulation
+|  |
+| ------- |
+| [1710-find-servers-that-handled-most-number-of-requests](https://github.com/doganazcol/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1710-find-servers-that-handled-most-number-of-requests](https://github.com/doganazcol/Leetcode/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
